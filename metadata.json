@@ -1,0 +1,5 @@
+{
+  "name": "coloEtudiant",
+  "description": "A modern rental listing application ported from Flask to React, featuring AI-assisted ad creation.",
+  "requestFramePermissions": []
+}
